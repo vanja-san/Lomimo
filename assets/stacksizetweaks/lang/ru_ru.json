@@ -1,0 +1,75 @@
+{
+  "config.stacksizetweaks.title": "Stack Size Tweaks",
+
+  "config.stacksizetweaks.category.general": "Stack Size Tweaks",
+
+  "config.stacksizetweaks.label.info": "Измените стандартный размер стака предметов.\n\nИспользуйте 0 для максимального размера стака (1 000 000 000).\n\nИзменения размера стака требуют перезапуска.",
+
+  "config.stacksizetweaks.group.item_groups": "Группы предметов",
+  "config.stacksizetweaks.group.item_groups.description": "Максимальный размер стака для разных групп предметов",
+
+  "config.stacksizetweaks.item_stack_limit": "Лимит стака предметов",
+  "config.stacksizetweaks.item_stack_limit.description": "Максимальный размер стака для обычных предметов.",
+
+  "config.stacksizetweaks.block_stack_limit": "Лимит стака блоков",
+  "config.stacksizetweaks.block_stack_limit.description": "Максимальный размер стака для блоков.",
+
+  "config.stacksizetweaks.food_stack_limit": "Лимит стака еды",
+  "config.stacksizetweaks.food_stack_limit.description": "Максимальный размер стака для еды.",
+
+  "config.stacksizetweaks.low_stack_limit": "Лимит стака редких предметов",
+  "config.stacksizetweaks.low_stack_limit.description": "Максимальный размер стака для предметов, которые обычно стакаются до 16.",
+
+  "config.stacksizetweaks.stew_stack_limit": "Лимит стака похлёбок",
+  "config.stacksizetweaks.stew_stack_limit.description": "Максимальный размер стака для похлёбок и супов (едой, использующей миску).",
+
+  "config.stacksizetweaks.potion_stack_limit": "Лимит стака зелий",
+  "config.stacksizetweaks.potion_stack_limit.description": "Максимальный размер стака для обычных, взрывных и туманных зелий.",
+
+  "config.stacksizetweaks.bucket_stack_limit": "Лимит стака вёдер",
+  "config.stacksizetweaks.bucket_stack_limit.description": "Максимальный размер стака для вёдер.",
+
+  "config.stacksizetweaks.playable_stack_limit": "Лимит стака пластинок и козьих рогов",
+  "config.stacksizetweaks.playable_stack_limit.description": "Максимальный размер стака для музыкальных пластинок и козьих рогов.",
+
+  "config.stacksizetweaks.vehicle_stack_limit": "Лимит стака лодок и вагонеток",
+  "config.stacksizetweaks.vehicle_stack_limit.description": "Максимальный размер стака для всех лодок и вагонеток.",
+
+  "config.stacksizetweaks.bed_stack_limit": "Лимит стака кроватей",
+  "config.stacksizetweaks.bed_stack_limit.description": "Максимальный размер стака для кроватей.",
+
+  "config.stacksizetweaks.banner_pattern_stack_limit": "Лимит стака узоров знамён",
+  "config.stacksizetweaks.banner_pattern_stack_limit.description": "Максимальный размер стака для узоров знамён.",
+
+
+  "config.stacksizetweaks.enchanted_book_stack_limit": "Лимит стака зачарованных книг",
+  "config.stacksizetweaks.enchanted_book_stack_limit.description": "Максимальный размер стака для зачарованных книг.",
+
+
+  "config.stacksizetweaks.non_stackable_stack_limit": "Лимит стака нестакаемых предметов",
+  "config.stacksizetweaks.non_stackable_stack_limit.description": "Максимальный размер стака для предметов, которые обычно не стакаются и не имеют прочности. Вероятны проблемы с некоторыми предметами.",
+
+  "config.stacksizetweaks.overrides": "Переопределения",
+  "config.stacksizetweaks.overrides.description": "Измените размер стака для конкретных предметов.\nФормат: minecraft:example_item=64",
+
+  "config.stacksizetweaks.logic": "Логика",
+
+  "config.stacksizetweaks.vanilla_comparator_amounts": "Ванильные значения компаратора",
+  "config.stacksizetweaks.vanilla_comparator_amounts.description": "Использовать ванильный размер стака для сравнения компаратором.",
+
+  "config.stacksizetweaks.font_formatting": "Шрифт и форматирование",
+
+  "config.stacksizetweaks.amount_tooltip": "Подсказка с количеством",
+  "config.stacksizetweaks.amount_tooltip.description": "Показывать подсказку с точным количеством предметов для больших стаков.",
+
+
+  "config.stacksizetweaks.font_option": "Шрифт количества предметов",
+  "config.stacksizetweaks.font_option.description": "Шрифт для отображения количества предметов в инвентаре.",
+
+  "config.stacksizetweaks.font_option.vanilla": "Ванильный шрифт",
+  "config.stacksizetweaks.font_option.small": "Мелкий шрифт",
+  "config.stacksizetweaks.font_option.tiny": "Крошечный шрифт",
+
+  "config.stacksizetweaks.shorten_item_amounts": "Агрессивное форматирование",
+  "config.stacksizetweaks.shorten_item_amounts.description": "Максимально сокращать отображение количества предметов, например 300M → 0.3B, 123K → 0.1M."
+}

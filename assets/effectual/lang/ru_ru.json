@@ -1,0 +1,80 @@
+{
+    "text.autoconfig.effectual.title": "Настройки Effectual",
+
+    "text.autoconfig.effectual.option.bubbleBreath": "Подводные пузырьки",
+    "text.autoconfig.effectual.option.bubbleBreath.@Tooltip": "Создаёт пузырьки при дыхании под водой, пока у игрока есть запас кислорода.",
+
+    "text.autoconfig.effectual.option.bubbleChests": "Пузырьки из сундуков под водой",
+    "text.autoconfig.effectual.option.bubbleChests.@Tooltip": "Из открытого сундука под водой время от времени поднимаются пузырьки.",
+
+    "text.autoconfig.effectual.option.caveDust": "Пещерная пыль",
+    "text.autoconfig.effectual.option.caveDust.@Tooltip": "В пещерах появляются частицы пыли.",
+
+    "text.autoconfig.effectual.option.caveDustFrequency": "Частота пещерной пыли",
+    "text.autoconfig.effectual.option.caveDustFrequency.@Tooltip": "Как часто появляется пыль в пещерах (выше = чаще).",
+
+    "text.autoconfig.effectual.option.fireImprovements": "Улучшенный огонь",
+    "text.autoconfig.effectual.option.fireImprovements.@Tooltip": "Новые частицы искр от огня и огня душ.",
+
+    "text.autoconfig.effectual.option.campfireImprovements": "Улучшенные костры",
+    "text.autoconfig.effectual.option.campfireImprovements.@Tooltip": "Новые частицы искр от костров и костров душ.",
+
+    "text.autoconfig.effectual.option.torchImprovements": "Улучшенные факелы",
+    "text.autoconfig.effectual.option.torchImprovements.@Tooltip": "Новые частицы искр от факелов и факелов душ.",
+
+    "text.autoconfig.effectual.option.lanternImprovements": "Улучшенные фонари",
+    "text.autoconfig.effectual.option.lanternImprovements.@Tooltip": "Новые частицы искр от фонарей и фонарей душ.",
+
+    "text.autoconfig.effectual.option.furnaceSparks": "Искры из печи",
+    "text.autoconfig.effectual.option.furnaceSparks.@Tooltip": "Мелкие искры из печей и плавильных печей, пока они работают.",
+
+    "text.autoconfig.effectual.option.cauldronFillEffect": "Частицы наполнения котла",
+    "text.autoconfig.effectual.option.cauldronFillEffect.@Tooltip": "Частицы всплеска/дыма при наполнении котла водой, лавой или порошковым снегом.",
+
+    "text.autoconfig.effectual.option.mouthSteam": "Дыхание на морозе (в разработке)",
+    "text.autoconfig.effectual.option.mouthSteam.@Tooltip": "Добавляет видимый пар от дыхания в холодных биомах.",
+
+    "text.autoconfig.effectual.option.dynamicBreathSpeed": "Динамическая частота дыхания",
+    "text.autoconfig.effectual.option.dynamicBreathSpeed.@Tooltip": "Если включено, дыхание (в холодных биомах) учащается при беге или прыжках.",
+
+    "text.autoconfig.effectual.option.runDust": "Пыль от бега",
+    "text.autoconfig.effectual.option.runDust.@Tooltip": "Создаёт дополнительные частицы пыли при беге по песку или снегу.",
+
+    "text.autoconfig.effectual.option.fireEntitySparks": "Искры от горящих существ",
+    "text.autoconfig.effectual.option.fireEntitySparks.@Tooltip": "Когда существо горит (например, в лаве или огне), из него вылетают искры.",
+
+    "text.autoconfig.effectual.option.minecartSparks": "Искры от вагонеток",
+    "text.autoconfig.effectual.option.minecartSparks.@Tooltip": "Искры появляются, когда вагонетки движутся на высокой скорости.",
+
+    "text.autoconfig.effectual.option.steamEffect": "Струи пара",
+    "text.autoconfig.effectual.option.steamEffect.@Tooltip": "Когда вода соприкасается с горячими блоками (например, лавой или котлом с лавой), появляется струя пара.",
+
+    "text.autoconfig.effectual.option.waterDrip": "Капли воды",
+    "text.autoconfig.effectual.option.waterDrip.@Tooltip": "Когда игрок выходит из воды, с него падают капли.",
+
+    "text.autoconfig.effectual.option.blockPlaceEffect": "Частицы установки блоков",
+    "text.autoconfig.effectual.option.blockPlaceEffect.@Tooltip": "Частицы появляются при установке снега, песка или гравия, соответствующие типу блока.",
+
+    "text.autoconfig.effectual.option.stripEffect": "Частицы обтёсывания",
+    "text.autoconfig.effectual.option.stripEffect.@Tooltip": "Частицы появляются при обтёсывании брёвен топором.",
+
+    "text.autoconfig.effectual.option.bubblePots": "Пузырьки из декоративного горшка",
+    "text.autoconfig.effectual.option.bubblePots.@Tooltip": "Если декоративный горшок находится под водой, он время от времени выпускает пузырьки.",
+
+    "text.autoconfig.effectual.option.metalHitSparks": "Искры при ударе по металлу",
+    "text.autoconfig.effectual.option.metalHitSparks.@Tooltip": "При ударе по металлическому блоку металлическим оружием или инструментом появляются искры.",
+
+    "text.autoconfig.effectual.option.snowFootprints": "Следы на снегу",
+    "text.autoconfig.effectual.option.snowFootprints.@Tooltip": "Оставляет видимые следы при ходьбе по снегу.",
+
+    "text.autoconfig.effectual.option.snowResidue": "Остатки снега",
+    "text.autoconfig.effectual.option.snowResidue.@Tooltip": "Оставляет небольшие снежные пятна на земле после выхода со снега.",
+
+    "text.autoconfig.effectual.option.airTrail": "След от элитр",
+    "text.autoconfig.effectual.option.airTrail.@Tooltip": "Оставляет едва заметный след при полёте на элитрах.",
+
+    "text.autoconfig.effectual.option.witherDecay": "Увядание иссушения",
+    "text.autoconfig.effectual.option.witherDecay.@Tooltip": "Добавляет чёрный дым, пока активен эффект иссушения (видно только на себе).",
+
+    "modmenu.descriptionTranslation.effectual": "Атмосферные эффекты и декоративные частицы."
+}

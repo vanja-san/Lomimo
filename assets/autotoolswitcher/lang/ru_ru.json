@@ -1,0 +1,8 @@
+{
+  "key.categories.autotoolswitcher.controls": "Auto Tool Switcher (ATS)",
+  "key.autotoolswitcher.toggle_enabled": "ATS: Вкл/Выкл автосмену инструментов",
+  "key.autotoolswitcher.toggle_look": "ATS: Вкл/Выкл смену по взгляду на блок",
+  "key.autotoolswitcher.toggle_mine": "ATS: Вкл/Выкл смену при копании",
+  "key.autotoolswitcher.toggle_combat": "ATS: Вкл/Выкл смену в бою",
+  "key.autotoolswitcher.hold_pause": "ATS: Зажать для приостановки автосмены"
+}
