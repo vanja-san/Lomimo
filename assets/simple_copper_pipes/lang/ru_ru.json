@@ -1,0 +1,47 @@
+{
+  "block.simple_copper_pipes.copper_pipe": "Медная труба",
+  "block.simple_copper_pipes.exposed_copper_pipe": "Потускневшая медная труба",
+  "block.simple_copper_pipes.weathered_copper_pipe": "Состаренная медная труба",
+  "block.simple_copper_pipes.oxidized_copper_pipe": "Окисленная медная труба",
+  "block.simple_copper_pipes.waxed_copper_pipe": "Вощёная медная труба",
+  "block.simple_copper_pipes.waxed_exposed_copper_pipe": "Вощёная потускневшая медная труба",
+  "block.simple_copper_pipes.waxed_weathered_copper_pipe": "Вощёная состаренная медная труба",
+  "block.simple_copper_pipes.waxed_oxidized_copper_pipe": "Вощёная окисленная медная труба",
+
+  "block.simple_copper_pipes.copper_fitting": "Медный соединитель",
+  "block.simple_copper_pipes.exposed_copper_fitting": "Потускневший медный соединитель",
+  "block.simple_copper_pipes.weathered_copper_fitting": "Состаренный медный соединитель",
+  "block.simple_copper_pipes.oxidized_copper_fitting": "Окисленный медный соединитель",
+  "block.simple_copper_pipes.waxed_copper_fitting": "Вощёный медный соединитель",
+  "block.simple_copper_pipes.waxed_exposed_copper_fitting": "Вощёный потускневший медный соединитель",
+  "block.simple_copper_pipes.waxed_weathered_copper_fitting": "Вощёный состаренный медный соединитель",
+  "block.simple_copper_pipes.waxed_oxidized_copper_fitting": "Вощёный окисленный медный соединитель",
+
+  "subtitles.block.copper_pipe.item_in": "Предмет входит в трубу",
+  "subtitles.block.copper_pipe.item_out": "Предмет выходит из трубы",
+  "subtitles.block.copper_pipe.launch": "Предмет выброшен из трубы",
+
+  "stat.simple_copper_pipes.inspect_copper_pipe": "Осмотрено медных труб",
+  "stat.simple_copper_pipes.inspect_copper_fitting": "Осмотрено медных соединителей",
+
+  "option.simple_copper_pipes.component.title": "Настройки Simple Copper Pipes",
+
+  "option.simple_copper_pipes.openable_fittings": "Открываемые соединители",
+  "tooltip.simple_copper_pipes.openable_fittings": "Определяет, будут ли медные соединители иметь интерактивный интерфейс.",
+
+  "option.simple_copper_pipes.dispensing": "Раздача предметов",
+  "tooltip.simple_copper_pipes.dispensing": "Определяет, смогут ли медные трубы выбрасывать предметы.",
+  "option.simple_copper_pipes.dispense_sounds": "Звуки раздачи",
+  "tooltip.simple_copper_pipes.dispense_sounds": "Определяет, будет ли медная труба издавать звук при выбросе предмета.",
+  "option.simple_copper_pipes.suction_sounds": "Звуки засасывания",
+  "tooltip.simple_copper_pipes.suction_sounds": "Определяет, будет ли медная труба издавать звук при засасывании нового предмета.",
+  "option.simple_copper_pipes.sense_game_events": "Восприятие игровых событий",
+  "tooltip.simple_copper_pipes.sense_game_events": "Определяет, будут ли медные трубы улавливать игровые события (вибрации).",
+
+  "option.simple_copper_pipes.carry_water": "Перенос воды",
+  "tooltip.simple_copper_pipes.carry_water": "Определяет, могут ли медные трубы и соединители переносить воду.",
+  "option.simple_copper_pipes.carry_lava": "Перенос лавы",
+  "tooltip.simple_copper_pipes.carry_lava": "Определяет, могут ли медные трубы и соединители переносить лаву.",
+  "option.simple_copper_pipes.carry_smoke": "Перенос дыма",
+  "tooltip.simple_copper_pipes.carry_smoke": "Определяет, могут ли медные трубы и соединители переносить дым."
+}

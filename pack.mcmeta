@@ -1,14 +1,13 @@
 {
   "pack": {
     "description": {
-      "translate": "suotm.resource_pack.latest",
-      "fallback": "Russian translation for some mods (1.20.X+)",
-      "type": "translatable",
+      "translate": "Русский перевод для некоторых модов",
+      "fallback": "Russian translation for some mods",
       "color": "#2159b8"
     },
     "pack_format": 15,
-    "supported_formats": [15,84],
+    "supported_formats": [15,999],
     "min_format": 15,
-    "max_format": 84
+    "max_format": 999
   }
 }
